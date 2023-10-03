@@ -167,6 +167,7 @@ body {
 
 .main-bg {
   background-color: #FFF8F4;
+  height: 100vh;
 }
 
 ::placeholder {
